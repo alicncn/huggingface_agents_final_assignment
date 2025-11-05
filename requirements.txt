@@ -1,0 +1,33 @@
+# Core Framework
+langgraph==0.2.34
+langchain==0.3.1
+langchain-google-genai==2.0.0
+langchain-community==0.3.1
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.9.2
+
+# Phase 2: Web search and document processing
+tavily-python==0.5.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.3.0
+html5lib==1.1
+
+# Phase 3: Audio/Video processing and vision
+openai-whisper==20231117
+pillow==10.4.0
+moviepy==1.0.3
+numpy==1.26.4
+yt-dlp==2025.10.22  # YouTube video downloader
+
+# Data analysis
+pandas==2.2.2
+openpyxl==3.1.5
+
+# Chess engine
+chess==1.10.0
+
+# Database
+sqlalchemy==2.0.35
